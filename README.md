@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @perla-ceja
-- 👀 I’m interested in technical good practices in genral
+- 👀 I’m interested in good development practices
 - 🌱 I’m currently learning machine learning and blockchain
 - 💞️ I’m looking to collaborate on new and chalenging projects
 - 📫 999-528-4484
